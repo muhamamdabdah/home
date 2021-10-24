@@ -1,3 +1,6 @@
+<?php
+	echo "<h3>OKE</h3>";
+?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
